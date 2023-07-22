@@ -61,7 +61,7 @@ Follow the latest news, see news in your favorite category, do a more specific s
 
 **Cloning this repository**
 ```
-$ git clone https://github.com/FabioXimenes/FlutterNews
+$ git clone https://github.com/sajibsaj66/Flutter_News_App
 $ cd FlutterNews
 ```
 **Installing dependencies**
